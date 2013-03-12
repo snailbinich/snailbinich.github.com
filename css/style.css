@@ -1,4 +1,4 @@
 *{margin:0;padding:0;}
-body{width:980px;margin: 0 auto;}
-.name{font-size: 200px;}
+body{width:980px;margin: 0 auto;font-family:"Times New Roman",Georgia,Serif;}
+.name{font-size: 200px;text-shadow:18px 30px 36px #000;}
 .align-right{text-align: right;}
